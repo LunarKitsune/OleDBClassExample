@@ -1,0 +1,8 @@
+﻿Connection Strings
+Data Set Example -Members.accdb
+sConnection = "Provider=Microsoft.ACE.OLEDB.12.0;" +
+                    "Data Source=member.accdb";
+
+Products
+sConnection ="Provider=Microsoft.ACE.OLEDB.12.0;" +
+                    "Data Source=Products.accdb";
